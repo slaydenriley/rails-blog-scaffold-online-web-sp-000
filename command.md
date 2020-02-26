@@ -1,1 +1,1 @@
-rails g scaffold 
+rails g scaffold Post title:string description:string --no-test-framework
