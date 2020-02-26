@@ -12,4 +12,3 @@ RSpec.describe "posts/show", :type => :view do
     expect(rendered).to match(/Title/)
   end
 end
-
